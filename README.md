@@ -3,9 +3,7 @@
 ## ABOUT ME
 
 I am Chandrashekhar Azad, a final year B.Tech Computer Science and Engineering student at BCE Bhagalpur with interest 
-in Graph Theory, Algorithms, Data Structures, DBMS, Programming and Complexity Theory, who love to code to achieve personal
-as well as organizational goals.
-
+in Graph Theory, Algorithms, Data Structures, DBMS, Programming and Complexity Theory.
 ## SAMPLE NOTEPAD PROJECT
 
 This project has been designed using java swing.This project shows a sample notepad which has some similar functionalities as of Microsoft windows notepad. It provides functionalities like new, open, save, select, select all, copy, paste, rename, save as, delete, edit, find, find next, search, word rap, page setup,time and date, set font and help in very efficient way.
