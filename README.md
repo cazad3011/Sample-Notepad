@@ -1,4 +1,3 @@
-**@ Author: CHANDRASHEKHAR AZAD**
 
 ## SAMPLE NOTEPAD PROJECT
 
@@ -33,9 +32,3 @@ any potential problems associated with its use. However,I have tried to fix almo
 program. It has been tested on java version "1.8.0_92" on an Intel(R) Core(TM) CPU (i5) with a 2.20 GHz processor and 8.00 GB of RAM, running on the Windows 10 operating system.
 
 **My email id: <cazad3011@gmail.com>**
-
-**Mobile No: (+91) 7319654847**
-
-**@Author: CHANDRASHEKHAR AZAD**
-
-END OF FILE
